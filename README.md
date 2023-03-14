@@ -1,5 +1,6 @@
 # sejong_maps
-세종대학교 21학번 신입생과 20학번 미개봉 중고를 위한 세종대학교 캠퍼스 안내 웹사이트, sejong maps!
+세종대학교 21학번 신입생과 20학번 미개봉 중고를 위한 세종대학교 캠퍼스 안내 웹사이트, sejong maps!    
+[대회 소개](https://do.sejong.ac.kr/ko/program/all/view/1737/description)
 
 
 ## 기획의도
